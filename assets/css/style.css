@@ -243,9 +243,9 @@ opacity: 1;
     max-width: 370px;
     opacity: 0.1;
     position: absolute;
-    left: 50%;
-    top: 35%;
-    transform: 
+    left: 27%;
+    top: 5%;
+    transform: translate(-50% -50% )
 
 }
 
