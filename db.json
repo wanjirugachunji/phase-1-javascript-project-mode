@@ -1,10 +1,25 @@
 {
-"beuty":[
-
-    {
-        "beutyImage":"https://www.cloverjean.com/wp-content/uploads/2020/03/wedding-day-hair-make-up-mariah-makaay-1024x571.jpg",
-        "description":"We ofer best beuty service"
+    "beuty": [
+        {
+            "beutyImage": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/472994/biz_photo/171469c788fe481e967d88db05e29d-alpha-dara-cosmetics-biz-photo-48a868f7fc1f45e687a2916e20e29f-booksy.jpeg?size=640x427",
+            "description": "We specialize on Where a soft glam makeup look has more medium coverage, a natural glam look is full coverage foundation with a focus on highlight that is noticeable in person and in photos along with contour and then a touch of glam on the eyes or lip.",
+            "title": "Natural Look"
+        },
+        {
+            "beutyImage": "https://www.crushpixel.com/static10/preview2/stock-photo-a-black-makeup-artist-apllying-eyeliner-on-a-beautiful-black-model-634119.jpg",
+            "description": "We are able to give you a Subtle and effective eye makeup, chosen and blended with your skin and eye colour. An eye pencil or liner on her eyebrows, two shades of eye shadow on the eyelids, dark brown or black mascara on the lashes, eye liner on her bottom lid and corner of upper lid.",
+            "title":" Eye Look"
+        },
+        {
+            "beutyImage": "https://www.theknot.com/tk-media/images/3e198f1d-477c-4b65-9070-0ebcdbb5cdc8~rs_768.h",
+            "description": "For your blog,Cover pages for magazines we are the best team to give you this crazy and most colorful looks.",
+            "title": "Fashion Makeup"
+        },
+        {
+            "beutyImage": "https://www.cloverjean.com/wp-content/uploads/2020/03/wedding-day-hair-make-up-mariah-makaay-scaled.jpg",
+            "description": "It’s our duty at GlowUp Beauty salon, to make you look the part on your wedding day. We specialize on wedding looks, where we ensure you and the bride tribe are given a natural yet beautiful look.",
+            "title": "Bridal Makeup"
         }
-]
 
+    ]
 }
